@@ -1,0 +1,105 @@
+{
+  "project_info": {
+    "project_number": "583799656188",
+    "project_id": "elmore-84d12",
+    "storage_bucket": "elmore-84d12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583799656188:android:c5f624d6f3727310d89179",
+        "android_client_info": {
+          "package_name": "com.elmore.shopping.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GSCOCmd-4m74L2sz1J0jG_E8hGmghws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583799656188:android:1f4ea5a3462293f5d89179",
+        "android_client_info": {
+          "package_name": "com.example.elmore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GSCOCmd-4m74L2sz1J0jG_E8hGmghws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583799656188:android:6b35e9210e116683d89179",
+        "android_client_info": {
+          "package_name": "com.example.elmore.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GSCOCmd-4m74L2sz1J0jG_E8hGmghws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583799656188:android:1572a0c17e155e95d89179",
+        "android_client_info": {
+          "package_name": "com.example.go_economy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GSCOCmd-4m74L2sz1J0jG_E8hGmghws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583799656188:android:04018496da92ab31d89179",
+        "android_client_info": {
+          "package_name": "com.example.go_economy.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-GSCOCmd-4m74L2sz1J0jG_E8hGmghws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
